@@ -22,13 +22,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-_Coming soon_
+<img src="walkthrough.gif" title="Video Walkthrough" alt="Video Walkthrough" />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge was understanding the terminology that was used and how everything fit together. I read Codepath's documentation on RecyclerView to understand the purpose of adapters and viewholders. 
 
 ## License
 
